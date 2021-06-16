@@ -14,6 +14,9 @@ const Navbar = ()=>{
                 <li>
                     <Link to='/nutrition'>Nutrition Facts</Link>
                 </li>
+                <li>
+                    <Link to='/admin'>Admin</Link>
+                </li>
             </ul>
         </nav>
 

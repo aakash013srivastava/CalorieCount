@@ -1,9 +1,9 @@
 import Food from './components/food'
-import {nutritionFacts} from './nutritionFacts'
+import RouterSetup  from './components';
 function App() {
   return (
     <div className="App">
-      <Food nutritionFacts={nutritionFacts}/>
+      <RouterSetup/>
     </div>
   );
 }

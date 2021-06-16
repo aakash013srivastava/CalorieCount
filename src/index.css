@@ -12,5 +12,6 @@ code {
     monospace;
 }
 .nutritionTable {
-  border: 1px;
+  border: 2px;
+  background-color: azure;
 }
